@@ -25,7 +25,7 @@
 ```yaml
 name: ADEBI Ayedoun Châ-Fine
 located_in: Benin, Parakou
-current_job: Django Back-end Developer
+Tech Enthusiast: Tutorials, Development, and Linux
 education:
   [
     "I am in my second year of a Bachelor's degree in Management Information Systems"
