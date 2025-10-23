@@ -1,81 +1,201 @@
-## ADEBI Châ-Fine Ayedoun 👋
+# 󰣇 ADEBI Châ-Fine Ayedoun
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
-</p>
+<div align="center">
 
-<h1 align="center">
-  Let's Connect and Have a Chat! 💬
-</h1>
+```ascii
+╔══════════════════════════════════════════════════════════════╗
+║  ⚡ Full-Stack Django Dev | Arch Linux Enthusiast | UI/UX   ║
+║     Crafting elegant web experiences from the terminal      ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
-<p align="center">
-<a href="https://x.com/achafine">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974271-91dfa250-d70b-4cb9-8707-f1bda1b708c3.png"/>
-</a>
-<a href="https://www.instagram.com/chafineadebi">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
-</a>
-</p>
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/achafine)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/chafineadebi)
+
+</div>
 
 ---
 
-<h2> 👨‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
+## 󰈸 whoami
 
 ```yaml
-name: ADEBI Ayedoun Châ-Fine
-located_in: Benin, Parakou
-nationality: Beninese
-pronouns: He/Him
-tech_enthusiast: True
-education:
-  [
-    "Currently in my third year of a Bachelor's degree in Management Information Systems"
-  ]
-
-fields_of_interest:
-  [
-    "Software Development",
-    "Web Development",
-    "Linux & Open Source",
-    "Scalability & Performance Optimization",
-    "Artificial Intelligence",
-  ]
-
-tools_and_technologies:
-  [
-    "Python, Java, C++, HTML/CSS",
-    "Django, Hugo, Qt Creator",
-    "Linux (Void Linux), Git, Bash, Wireshark",
-    "i3wm, LazyVim, Alacritty, Rofi, Picom",
-  ]
-
-terminal_proficiency:
-  [
-    "Beginner Bash Scripting",
-    "Package Management (xbps, apt, pacman)",
-    "Customizing and Optimizing Linux Environments"
-  ]
-
-currently_learning: ["Backend development with Django & system architecture"]
-hobbies: ["Gaming", "Coding", "Tinkering with Linux & WM setups", "Tech Blogging"]
+system:
+  hostname: "chafine-dev"
+  os: "Arch Linux (btw)"
+  wm: "Wayland + Waybar"
+  shell: "zsh + starship"
+  editor: "Neovim (LazyVim)"
+  terminal: "Alacritty"
+  multiplexer: "tmux"
+  
+user:
+  name: "ADEBI Ayedoun Châ-Fine"
+  location: "Parakou, Benin 🇧🇯"
+  education: "L3 Management Information Systems"
+  pronouns: "He/Him"
+  philosophy: "Rice everything, automate the rest"
+  
+aesthetic:
+  themes: ["Tokyo Night", "Catppuccin Mocha"]
+  dotfiles: "linuxforwork inspired • from scratch"
+  motto: "If it doesn't look good in the terminal, it doesn't exist"
 ```
 
----  
+---
 
-<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
-<p align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" alt="qt" width="45" height="45"/>
-</p>
+## 🚀 Tech Arsenal
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
+### 󰌽 Languages & Frameworks
+
+```python
+stack = {
+    "backend": ["Django", "Python"],
+    "frontend": ["HTML5", "CSS3", "JavaScript", "Bootstrap", "TailwindCSS"],
+    "systems": ["C", "C++"],
+    "learning": ["Java (hobby projects)"],
+    "scripting": ["Bash", "Zsh"]
+}
+```
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+
+</div>
+
+### 🐧 Linux & DevOps
+
+```bash
+neofetch --stdout | grep -E "workflow|tools"
+```
+
+<div align="center">
+
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white)
+![Wayland](https://img.shields.io/badge/Wayland-FFBC00?style=flat-square&logo=wayland&logoColor=black)
+![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=neovim&logoColor=white)
+![tmux](https://img.shields.io/badge/tmux-1BB91F?style=flat-square&logo=tmux&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+</div>
+
+**Daily Drivers:**
+
+- **WM:** Hyprland/Sway (Wayland native)
+- **Bar:** Waybar (custom Tokyo Night config)
+- **Dotfiles:** Hand-crafted, linuxforwork inspired
+- **Terminal Workflow:** zsh + tmux + neovim + fzf
+- **Package Manager:** pacman + yay
+
+---
+
+## 💡 What I Do
+
+```typescript
+const chafine = {
+  code: ["Web Applications", "REST APIs", "UI Components"],
+  focus: "Building performant Django backends with beautiful frontends",
+  passion: [
+    "Crafting pixel-perfect interfaces",
+    "Optimizing Linux workflows",
+    "Making terminals beautiful and functional",
+    "Impressing people with tech wizardry ✨"
+  ],
+  currentlyLearning: [
+    "Advanced Django patterns",
+    "Scalable architecture",
+    "Frontend performance optimization"
+  ],
+  funFact: "I rice my Linux setup more than I write production code"
+};
+```
+
+---
+
+## 🎨 Rice Philosophy
+
+> *"A beautiful terminal is a productive terminal"*
+
+My setup is designed to:
+
+- **Look stunning** (Tokyo Night/Catppuccin everywhere)
+- **Be blazingly fast** (Wayland + native tools)
+- **Stay minimal** (only what I need, nothing more)
+- **Impress anyone** who sees my screen 😎
+
+**Config Highlights:**
+
+- ⚡ Wayland compositor from scratch
+- 🎨 Consistent Tokyo Night/Catppuccin theming
+- ⌨️  Vim motions everywhere
+- 🔧 Custom zsh + starship prompt
+- 📦 Modular dotfiles structure
+
+---
+
+## My current desktop look
+
+<div align="center">
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/479a89a4-d6e2-47a1-95f8-835098952a28" />
+
+
+</div>
+
+---
+
+## 🎯 Current Focus
+
+```diff
++ Building scalable Django applications
++ Mastering TailwindCSS for rapid UI development
++ Contributing to open-source Linux tools
++ Documenting my arch + wayland journey
+- Definitely not spending hours tweaking waybar config
+```
+
+---
+
+## 🤝 Let's Connect
+
+I love discussing:
+
+- 🐍 Django architecture & best practices
+- 🎨 Frontend design systems
+- 🐧 Linux ricing & Wayland workflows
+- ⚡ Performance optimization
+- 🛠️  Developer tooling
+
+**Drop me a message if you want to:**
+
+- Collaborate on open-source projects
+- Talk about web development
+- Share dotfiles and rice tips
+- Discuss the superiority of Arch Linux 😉
+
+---
+
+<div align="center">
+
+```ascii
+╔════════════════════════════════════════════════╗
+║  "Any application that can be written in      ║
+║   Django, will eventually be written in       ║
+║   Django... with a Tokyo Night theme"         ║
+╚════════════════════════════════════════════════╝
+```
+
+**⚡ Powered by caffeine, Arch Linux, and good taste in color schemes**
+
+![Profile Views](https://komarev.com/ghpvc/?username=chafineadebi&color=7aa2f7&style=flat-square)
+
+</div>
